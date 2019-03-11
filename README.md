@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-It is a more descriptive and purposeful way of annotating your HTML. You can just use standard markups such as <p>,<div>, and <span>, but when you use tags such as <h1> and <address> you give a clearer meaning to what your webpages content is conveying.
+It is a more descriptive and purposeful way of annotating your HTML. You can just use standard markups such as "p,div, and span", but when you use tags such as "h1 and address" you give a clearer meaning to what your webpages content is conveying.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```
 
